@@ -1,0 +1,2 @@
+(a) According to the experiment (results are in FindBestSmooth.zip), the best smooth number should be greater than
+7.450580596923828E-9, which improves the correctness from 94% to 98%.
